@@ -203,7 +203,7 @@ nvcc vector_add.cu -o vector_add
 
 ## OUTPUT:
 
-<img width="1079" height="515" alt="pca-ex-1" src="https://github.com/user-attachments/assets/65a48382-3a7f-4bb4-8809-c700981fa983" />
+<img width="1076" height="284" alt="pca - ex-1" src="https://github.com/user-attachments/assets/e8b72342-12a2-49e8-ac39-b0720ff030a7" />
 
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
